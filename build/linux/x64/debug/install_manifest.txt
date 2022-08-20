@@ -1,0 +1,10 @@
+/home/dave/Todo/Flutter_Task/build/linux/x64/debug/bundle/flutter_challenge_todo_app
+/home/dave/Todo/Flutter_Task/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/dave/Todo/Flutter_Task/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/dave/Todo/Flutter_Task/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/dave/Todo/Flutter_Task/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/dave/Todo/Flutter_Task/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/dave/Todo/Flutter_Task/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/dave/Todo/Flutter_Task/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/dave/Todo/Flutter_Task/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/dave/Todo/Flutter_Task/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
